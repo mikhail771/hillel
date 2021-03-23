@@ -1,2 +1,2 @@
 1. File -> New -> Project From Version Control
-2. 
+2. Changed
